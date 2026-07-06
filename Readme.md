@@ -1,6 +1,6 @@
 # Budget Buddy App
 
-![Budget Buddy App Thumbnail](https://i.ytimg.com/vi/dl74XgJYK1A/maxresdefault.jpg)
+![Budget Buddy App Thumbnail](assets/readmePoster.png)
 
 ## Introduction
 
@@ -36,4 +36,5 @@ cd Budget-Buddy-App
 ```
 
 💡 Find more resources at [codewithbeto.dev](https://codewithbeto.dev)
+
 # Wallet
