@@ -31,4 +31,6 @@ To get started with this project, clone the repository and install the required 
 ```bash
 git clone https://github.com/M31i55a/Wallet.git
 cd Wallet
+bun install
+bun start
 ```
