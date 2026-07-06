@@ -1,14 +1,14 @@
-# Budget Buddy App
+# Wallet
 
-![Budget Buddy App Thumbnail](assets/readmePoster.png)
+![Wallet Thumbnail](assets/readmePoster.png)
 
 ## Introduction
 
-Welcome to the Budget Buddy App, a real-world budget management application built with SQLite and Expo 50. This project demonstrates the power of developing local-first applications that manage complex data structures with instant performance for CRUD operations.
+Welcome to Wallet, a real-world budget management application built with SQLite and Expo 50. This project demonstrates the power of developing local-first applications that manage complex data structures with instant performance for CRUD operations.
 
 ### About the App
 
-This app is designed to help users manage their finances effectively using the robustness of SQLite for data management. With its user-friendly interface and powerful backend, Budget Buddy makes budgeting simple and efficient.
+This app is designed to help users manage their finances effectively using the robustness of SQLite for data management. With its user-friendly interface and powerful backend, Wallet makes budgeting simple and efficient.
 
 ## Features
 
@@ -29,6 +29,6 @@ This app is designed to help users manage their finances effectively using the r
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/betomoedano/Budget-Buddy-App.git
-cd Budget-Buddy-App
+git clone https://github.com/M31i55a/Wallet.git
+cd Wallet
 ```
